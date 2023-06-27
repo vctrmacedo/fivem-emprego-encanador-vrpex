@@ -1,0 +1,70 @@
+
+=============== CLIENTE ================================================
+drawmarker do emprego
+coordenada
+distância
+mensagem do emprego
+distância da mensagem do emprego
+apertar tecla E
+Caso já esteja em serviço, não pode aparecer o blip
+
+Entrar em serviço de encanador
+[tempor real] Aparecer a mensagem do item chave de grifo necessário caso não tenha
+[tempo real] F7 para sair do serviço.
+
+Criar a rota com as coordenadas após ter o item chave de grifo
+
+drawmarker da rota
+coordenadas da rota
+distância
+mensagem da rota (Pressione E para consertar) 
+distância da mensagem do emprego
+apertar tecla E e verificar o último veículo e se está em serviço.
+animação consertando
+timer da animação
+após o timer
+	cancelar a animação
+	entregar a remuneração
+	gerar uma nova rota
+
+
+
+================= SERVIDOR ===========================================
+
+entregar a remuneração
+checagem da chave de grifo
+
+
+['x'] = 329.88, ['y'] = -994.98, ['z'] = 29.3
+['x'] = 65.11, ['y'] = -267.58, ['z'] = 48.19
+['x'] = 141.86, ['y'] = -240.03, ['z'] = 51.52
+['x'] = 0.92, ['y'] = -200.44, ['z'] = 52.75
+['x'] = 855.68, ['y'] = -579.74, ['z'] = 58.08
+['x'] = 1381.47, ['y'] = -2100.16, ['z'] = 54.44
+['x'] = 1024.1, ['y'] = -1742.55, ['z'] = 35.48
+['x'] = -207.89, ['y'] = 178.13, ['z'] = 77.33
+['x'] = -807.68, ['y'] = 45.12, ['z'] = 48.81
+['x'] = -27.99, ['y'] = -232.69, ['z'] = 46.3
+['x'] = 93.8, ['y'] = -274.92, ['z'] = 47.44
+['x'] = 352.43, ['y'] = 344.74, ['z'] = 105.16
+['x'] = 182.6, ['y'] = 294.18, ['z'] = 105.34
+['x'] = -268.51, ['y'] = 203.65, ['z'] = 85.73
+['x'] = -135.34, ['y'] = 147.89, ['z'] = 77.51
+['x'] = -1071.97, ['y'] = -501.94, ['z'] = 36.56
+['x'] = -1189.4, ['y'] = -554.02, ['z'] = 27.87
+['x'] = -675.34, ['y'] = -432.85, ['z'] = 35.12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
